@@ -1,2 +1,2 @@
-1. Re-download the dataset for İstanbul.
+1. Re-download the dataset for İstanbul. DONE
 2.

@@ -1,4 +1,4 @@
 # Prediction
 Assignment collection for Prediction with Machine Learning for Economists course.
 
-Switch to Visual Stuido Code and its Git Hub extension from the Anaconda/Jupyter Notebook and Git Bash combination. Life is much easier now - and things look better too.
+Switched to Visual Stuido Code and its GitHub extension from the Anaconda/Jupyter Notebook and Git Bash combination. Created a new branch by accident and pushed changes to that one. Had to change default branch and delete the old one. Life is much easier now - and things look better too.
